@@ -1,0 +1,281 @@
+body {
+background-color: #dedede;
+margin-top: 0;
+padding-top: 0;
+font-family: 'Roboto', sans-serif;
+
+}
+.aks{
+	background-color: black;
+	width: 100;
+	text-align: right;
+	padding: 15px 50px 35px 0px;
+	border: 1px solid white ;
+	}
+
+.nav1{
+width: 5%;
+float: left;
+
+
+}
+.nav2 a{
+padding: 10px 15px 10px 20px; 
+color:white;
+text-decoration: none; 
+}
+.nav2{
+	width: 30%;
+	float: left;
+	
+}
+.nav3 a{
+	color:white;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+   }
+.nav3{
+	width: 50%;
+	float: right;
+	padding: 0px 10px 0px 10px;
+}
+
+.selva{
+	background-color: gray;
+	width: 100;
+	text-align: right;
+	padding: 12px 0px 0px 10px;
+	border: 1px solid white ;
+	color: white;
+
+
+}
+
+.phy1{
+
+float: left;
+
+}
+.phy1 h3{
+	float: right;
+	padding: 0px 20px 0px 30px;
+	margin-top: 0;
+}
+.phy2 button{
+	padding: 5px 30px 0px 0px;
+	padding-left: 200px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+
+}
+.phy2{
+	width: 60%;
+	padding: 0px 10px 0px 10px;
+
+}
+
+.phy3{
+	width: 30%;
+	float: right;
+	padding: 0px 50px 0px 10px;
+    position: absolute;
+    right:60px;
+    top: 60px;
+    margin-top: 0;
+}
+.phy3 h5{
+		margin-top: 0;
+      position: absolute;
+      right:30px;
+      top: 30px;
+}
+
+.hod {
+background-color:gray;
+
+border: 1px solid white;
+padding: 10px 10px 10px 10px;
+}
+
+.hod input{
+	background-color: #800080;
+	color: white;
+	text-align: center;
+	padding: 0px 25px 0px 25px;
+}
+.amma input {
+     background-color: green;
+	padding: 0px 10px 0px 10px;
+margin-right: 30px;
+}
+.hod .kb {
+padding: 0px 0px 0px 60px;
+margin-top: -20px;
+ 
+}
+.hod .kb a{
+	margin-right: 10px;
+	color: black;
+	text-decoration: none;
+    padding:0px 5px 0px 35px; 
+}
+.hod .amma  {
+	float: right;
+    position: absolute;
+    top: 125px;
+    right: 100px;
+   
+
+
+}
+/*.website{
+	margin: 25px;
+	border: 2px solid white;
+	width: 180px;
+
+}
+.gallery{
+	width: 100%;
+	display: inline;
+
+}
+.gallery img{
+	width: 100%;
+   height: auto;
+	
+}
+.desc{
+	background-color: #800080;
+	clear: both;
+	width:100;
+}
+
+.desc1{
+	font-size: small;
+	float: left;
+	width: 80%;
+	line-height: 2px;
+	margin-bottom: 10px;
+	background-color: #800080;
+	clear: both;
+}
+.desc2{
+	
+	width: 20%;
+	background-color: #800080;
+	float: left;
+	
+}*/
+
+
+.text-details{
+	font-size: 16px;
+}
+.column{
+	float:left;
+	display: inline;
+	margin-right: 10px;
+	width:24%;
+	margin-top: 5px;
+}
+.figure img{
+	width:100%;
+	height: auto;
+}
+.text-img{
+	float:right;
+}
+.gallery-bgr-color{
+	background-color: #800080;
+	padding: 5px 5px 5px 5px;
+}
+.container-row1{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.container-row2{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.container-row3{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.container-row4{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.special{
+	width: 100%;
+	clear: both;
+	align-items:center;
+	justify-content:center;
+	display: flex;
+	margin-bottom: 20px;
+}
+
+.special-button{
+	 width: 100px;
+	 margin-top: 20px;
+
+}
+.para{
+	font-size: 15px;
+	margin-left: 10px;
+}
+
+.total{
+	background-color: #000000;
+	color:white;
+	padding-bottom: 20px;
+
+}
+.castle {
+	border-top: 2px solid purple;
+	padding-top:10px; 
+}
+
+.castle img{
+	margin-top: -30px;
+	margin-left: 43%;
+}
+
+.castle p{
+	float: right;
+	padding-left: 10%;
+	margin-right: 35%;
+	margin-top:-80px;
+	font-weight: 30px;
+}
+.logo{
+	padding: 5px 5px 5px 10px;
+	margin-left: 40%;
+}
+.total p{
+	text-align: center;
+	line-height: 2px;
+	font-size: 10px;
+}
+.conclusion .castle p{
+	font-size: 20px;
+	l
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
